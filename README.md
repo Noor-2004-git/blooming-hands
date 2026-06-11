@@ -109,7 +109,6 @@ Note: !pip install mediapipe (if any error pops in)
 - [NumPy](https://numpy.org/) — pixel math for petal shapes
 
 ---
-
-## 📄 License
-
-MIT — do whatever you want with it.
+##Author
+Noor Tandon
+Computer Engineering
